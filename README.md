@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @QureshiYousuf
-- 👀 ReactJS Web Developer / NodeJS / React JS
+- 👀 MERN | Full Stack Web Developer - React JS / NodeJS / MongoDB / Express.js / TailwindCSS / Redux ToolKit / RTK Query / Ubuntu Linux Server / Deployment
 - 🌱 I’m currently working as ReactJS Front End Web Developer @ Infosys Ltd
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... Email me @ qureshiyusuff@gmail.com
