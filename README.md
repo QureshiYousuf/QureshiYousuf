@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @QureshiYousuf
-- 👀 I’m interested in ... Web Development / NodeJS / React JS
-- 🌱 I’m currently learning ... React JS
+- 👀 ReactJS Web Developer / NodeJS / React JS
+- 🌱 I’m currently working as ReactJS Front End Web Developer @ Infosys Ltd
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... Email me @ qureshiyusuff@gmail.com
 
